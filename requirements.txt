@@ -1,0 +1,14 @@
+chainlit
+notebook
+ipywidgets
+tqdm
+python-dotenv
+openai
+langchain_google_genai
+chromadb
+langchain
+llama-index
+llama-index-llms-openai
+llama-index-embeddings-openai
+
+-e .
